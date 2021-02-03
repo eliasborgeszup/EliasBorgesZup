@@ -35,17 +35,10 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EliasBorgesZup&hide_border=true)
 
+### Let's connect ? 🤝
+
 <p align="left">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=EliasBorgesZup&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EliasBorgesZup&layout=compact&langs_count=8"/>
-</a>
+<a href="https://www.linkedin.com/in/eliasborges/"><img src="https://img.shields.io/badge/-elias.borges-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://eliasjborges.medium.com/"><img src="https://img.shields.io/badge/-@elias.borges-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="mailto:eliasborges@unipam.edu.br"><img src="https://img.shields.io/badge/-eliasborges@unipam.edu.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
-
-<!-- <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
