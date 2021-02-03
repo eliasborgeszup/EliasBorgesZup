@@ -37,7 +37,9 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/eliasborges/"><img src="https://img.shields.io/badge/-elias.borges-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://eliasjborges.medium.com/"><img src="https://img.shields.io/badge/-@elias.borges-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="mailto:eliasborges@unipam.edu.br"><img src="https://img.shields.io/badge/-eliasborges@unipam.edu.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/eliasborges/"><img src="https://img.shields.io/badge/-eliasborges-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+	<a href="https://eliasjborges.medium.com/"><img src="https://img.shields.io/badge/-@eliasjborges-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+	<a href="mailto:eliasborges@unipam.edu.br"><img src="https://img.shields.io/badge/-eliasborges@unipam.edu.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+#### _References: [Snake animation](https://github.com/Platane/snk) ➕ [Guillaume Falourd](https://dev.to/guifalourd/step-by-step-to-create-a-readme-for-your-github-profile-1i0g) 
