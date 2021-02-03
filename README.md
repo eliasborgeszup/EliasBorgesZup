@@ -1,6 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EliasBorgesZup&repo=EliasBorgesZup&countColorcountColor)
 
 ### I'm a Elias Borges Software Developer and working at [Zup Innovation](www.zup.com.br).
 
@@ -24,8 +25,6 @@
 ![Eclipse](https://img.shields.io/badge/eclipse-badge-blue.svg?logo=eclipse)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EliasBorgesZup&repo=EliasBorgesZup&countColorcountColor)
 
 ### Analytics ⚙️
 
