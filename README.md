@@ -9,8 +9,8 @@
 
 ### Languages & Tools 🛠
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
