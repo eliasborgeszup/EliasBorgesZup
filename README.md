@@ -28,11 +28,13 @@
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasBorgesZup&layout=compact&count_private=true&theme=dark)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=EliasBorgesZup&count_private=true&show_icons=true&theme=dark)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EliasBorgesZup&hide_border=true&theme=dark)
+<div align="center">
+  <a href="https://github.com/eliasborgeszup">
+	  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=EliasBorgesZup&hide_border=true&theme=tokyonight"><br>
+  	  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=EliasBorgesZup&count_private=true&show_icons=true&theme=dark">
+  	  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasBorgesZup&layout=compact&count_private=true&theme=dark">
+</div>
 
 ### Let's connect ? 🤝
 
