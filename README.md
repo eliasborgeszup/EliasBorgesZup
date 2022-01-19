@@ -5,7 +5,7 @@
 
 ### I'm a Elias Borges Software Developer and working at [Zup Innovation](www.zup.com.br).
 
-![Snake animation](https://raw.githubusercontent.com/eliasborgeszup/eliasborgeszup/master/svg/github-user-contribution.svg)
+![Snake animation](https://github.com/eliasborgeszup/eliasborgeszup/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 
